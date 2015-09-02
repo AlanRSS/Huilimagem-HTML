@@ -1,0 +1,57 @@
+﻿body {
+    font-family:'Beatnik SF';
+    background-image:url("../recursos/Background.png");
+    background-repeat:no-repeat;
+ 
+}
+.container{
+    background-color:#FFF;
+}
+.logo{
+   max-width:250px;
+}
+.cabeçalho{
+    text-align:center;
+    padding-top:35px;
+}
+.menu{
+    background-color:#FFF;
+    border: solid #76CCE0 3px;
+    border-radius:100px;
+    margin: 20px 20px 20px 20px;
+    display: flex;
+}
+.menu-btn{
+    padding-right:60px !important;
+    text-align:center;
+
+}
+.imagem{
+    text-align:center;
+    margin-left:0;
+    margin-right:auto;
+}
+.icentro{
+    background-color:#76CCE0;
+}
+.tbranco{
+    color:#FFF;
+}
+.serv{
+    margin:15px 15px 0px 0px;
+}
+.imgS{
+    max-width:250px;
+}
+.pag{
+    color:#76CCE0;
+    font-size:20px;
+}
+.norm{
+    color:#000;
+}
+.norm:hover{
+    color:#000;
+    width:100%;
+    height:100%;
+}
